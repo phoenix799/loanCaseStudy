@@ -43,7 +43,7 @@ The data given contains the information about past loan applicants and whether t
 6. **Loan Status** : About 85% of loans are fully paid and 15% of loans are Charged off
 
 ![plot](./images/univariate_month.png)
-![plot](./images/univariate_grade_and_state)
+![plot](./images/univariate_grade_and_state.png)
 
 1. **Loan issue month** : Number of people opting for loan increases as month progresses from Jan to Dec\
 2. **Loan applicant State** : People are from CA and NY are most who applied for the loan\
