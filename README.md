@@ -31,13 +31,23 @@ The data given contains the information about past loan applicants and whether t
 
 
 ## Conclusions
-### Univariate Analysis
+### From Univariate Analysis
 
 ![plot](./images/univariate_emp_Verification_loan.png)
 
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+1. **Term** : People opting for short team loan (36 months) are relatively higher compated to long term loans (60 months)
+2. **Home ownership** : Applicant who are having Rent or Mortage property are more intended to take loan over others
+3. **Grade** : People from grade A and B are among the most who take the loan
+4. **Employment Length** - Among applicants employees having maximum group of people are having 10+ years years experience
+5. **Verification Status** - For provided data we can infer majority of the loans are issued without verification
+6. **Loan Status** : About 85% of loans are fully paid and 15% of loans are Charged off
+
+![plot](./images/univariate_month.png)
+![plot](./images/univariate_grade_and_state)
+
+1. **Loan issue month** : Number of people opting for loan increases as month progresses from Jan to Dec\
+2. **Loan applicant State** : People are from CA and NY are most who applied for the loan\
+3. **Pupose** : Debt consolidation is the most purpose for people who are applying for the loans
 
 
 ## Technologies Used
