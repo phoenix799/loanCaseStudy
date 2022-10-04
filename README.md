@@ -31,7 +31,10 @@ The data given contains the information about past loan applicants and whether t
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
+### Univariate Analysis
+
+![plot](./images/univariate_emp_Verification_loan.png)
+
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
