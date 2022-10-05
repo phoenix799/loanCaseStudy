@@ -33,6 +33,7 @@ The data given contains the information about past loan applicants and whether t
 ## Conclusions
 ### From Univariate Analysis
 
+![plot](./images/univariate_term_ownership.png)
 ![plot](./images/univariate_emp_Verification_loan.png)
 
 1. **Term** : People opting for short team loan (36 months) are relatively higher compated to long term loans (60 months)
