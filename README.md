@@ -55,11 +55,11 @@ The data given contains the information about past loan applicants and whether t
 
 **People belonging to Charged off category are having higher interest rate than fully paid ones**
 
-![plot](./images/bivar_hbivar_duration.png)
+![plot](./images/bivar_duration.png)
 
 **Number of people Charged off are more in long term loan(60 months) compared to short term. Also number of people fully paid is more in short term loan(36 months)**
 
-![plot](./images/bivar_bivar_grade.png)
+![plot](./images/bivar_grade.png)
 
 **Number of people belong to Group F & G are Charged off more compared to other group. Also from as we move from Group A to G proportion of charged off people increases**
 
