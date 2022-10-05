@@ -93,4 +93,4 @@ The data given contains the information about past loan applicants and whether t
 
 
 ## Contact
-Created by [@Naveenkv93](https://github.com/Naveenkv93) & [@phoenix799](https://github.com/prabhats97) - feel free to contact us!
+Created by [@Naveenkv93](https://github.com/Naveenkv93) & [@prabhats97](https://github.com/prabhats97) - feel free to contact us!
